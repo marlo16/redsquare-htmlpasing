@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\bin\Release\netstandard2.0\Html2Excel.Core.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\bin\Release\netstandard2.0\Html2Excel.Core.dll
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\bin\Release\netstandard2.0\Html2Excel.Core.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.dll
+C:\Users\Александр\source\repos\Html2Xlsx\Html2Excel.Core\obj\Release\netstandard2.0\Html2Excel.Core.pdb

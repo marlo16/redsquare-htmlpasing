@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlParsing.Core.Models\obj\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.pdb

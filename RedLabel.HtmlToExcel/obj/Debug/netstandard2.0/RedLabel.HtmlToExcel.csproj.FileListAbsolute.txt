@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\bin\Debug\netstandard2.0\RedLabel.HtmlToExcel.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\bin\Debug\netstandard2.0\RedLabel.HtmlToExcel.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\bin\Debug\netstandard2.0\RedLabel.HtmlToExcel.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.csproj.CopyComplete
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToExcel\obj\Debug\netstandard2.0\RedLabel.HtmlToExcel.pdb

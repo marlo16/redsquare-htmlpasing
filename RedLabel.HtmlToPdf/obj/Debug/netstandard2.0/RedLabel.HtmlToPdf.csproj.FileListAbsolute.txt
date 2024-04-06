@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\bin\Debug\netstandard2.0\RedLabel.HtmlToPdf.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\bin\Debug\netstandard2.0\RedLabel.HtmlToPdf.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\bin\Debug\netstandard2.0\RedLabel.HtmlToPdf.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.csproj.CopyComplete
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToPdf\obj\Debug\netstandard2.0\RedLabel.HtmlToPdf.pdb

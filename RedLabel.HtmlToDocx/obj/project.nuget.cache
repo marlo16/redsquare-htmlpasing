@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mln+hXjyyYsAwcNiVluo4iYRP6aZIe5yEgOVPQAzJhDbwjp2Z9MQiclFyl/aZsZU+50WNA3UlHLEH3gb0BPtpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Работа\\Repositories\\redsquare-htmlpasing\\RedLabel.HtmlToDocx\\RedLabel.HtmlToDocx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

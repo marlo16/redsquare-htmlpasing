@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedLabel.HtmlParsing.Core", "RedLabel.HtmlParsing.Core\RedLabel.HtmlParsing.Core.csproj", "{A8B72A5D-97BB-454F-B3E1-839AEFDD057F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedLabel.HtmlParsing.Core.Models", "RedLabel.HtmlParsing.Core.Models\RedLabel.HtmlParsing.Core.Models.csproj", "{04DD2973-1EFF-467C-8717-51C8385C97AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedLabel.HtmlParsing.Core.Tests", "RedLabel.HtmlParsing.Core.Tests\RedLabel.HtmlParsing.Core.Tests.csproj", "{6FD0FD76-41D3-450F-ADD9-1664849F496B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLabel.HtmlToExcel", "RedLabel.HtmlToExcel\RedLabel.HtmlToExcel.csproj", "{F205DEBD-EC81-47AF-9FC4-8554CC672EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLabel.HtmlToPdf", "RedLabel.HtmlToPdf\RedLabel.HtmlToPdf.csproj", "{55859B72-75DA-4989-A7F6-66D7A9C2B8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLabel.HtmlToDocx", "RedLabel.HtmlToDocx\RedLabel.HtmlToDocx.csproj", "{B85FD098-38F0-41BE-B358-F2022A7566AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B72A5D-97BB-454F-B3E1-839AEFDD057F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B72A5D-97BB-454F-B3E1-839AEFDD057F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B72A5D-97BB-454F-B3E1-839AEFDD057F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B72A5D-97BB-454F-B3E1-839AEFDD057F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DD2973-1EFF-467C-8717-51C8385C97AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DD2973-1EFF-467C-8717-51C8385C97AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DD2973-1EFF-467C-8717-51C8385C97AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DD2973-1EFF-467C-8717-51C8385C97AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD0FD76-41D3-450F-ADD9-1664849F496B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD0FD76-41D3-450F-ADD9-1664849F496B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD0FD76-41D3-450F-ADD9-1664849F496B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD0FD76-41D3-450F-ADD9-1664849F496B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F205DEBD-EC81-47AF-9FC4-8554CC672EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205DEBD-EC81-47AF-9FC4-8554CC672EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205DEBD-EC81-47AF-9FC4-8554CC672EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205DEBD-EC81-47AF-9FC4-8554CC672EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55859B72-75DA-4989-A7F6-66D7A9C2B8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55859B72-75DA-4989-A7F6-66D7A9C2B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55859B72-75DA-4989-A7F6-66D7A9C2B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55859B72-75DA-4989-A7F6-66D7A9C2B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85FD098-38F0-41BE-B358-F2022A7566AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85FD098-38F0-41BE-B358-F2022A7566AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85FD098-38F0-41BE-B358-F2022A7566AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85FD098-38F0-41BE-B358-F2022A7566AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B15001-0BA2-4401-828B-A351E1133677}
+	EndGlobalSection
+EndGlobal

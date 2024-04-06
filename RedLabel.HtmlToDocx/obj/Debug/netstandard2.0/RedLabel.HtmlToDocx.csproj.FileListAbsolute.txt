@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\bin\Debug\netstandard2.0\RedLabel.HtmlToDocx.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\bin\Debug\netstandard2.0\RedLabel.HtmlToDocx.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\bin\Debug\netstandard2.0\RedLabel.HtmlToDocx.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\bin\Debug\netstandard2.0\RedLabel.HtmlParsing.Core.Models.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.csproj.CopyComplete
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.dll
+C:\Users\Александр\source\repos\Html2Xlsx\RedLabel.HtmlToDocx\obj\Debug\netstandard2.0\RedLabel.HtmlToDocx.pdb

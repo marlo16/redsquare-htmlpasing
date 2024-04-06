@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\bin\Debug\netstandard2.0\HtmlParsing.Models.deps.json
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\bin\Debug\netstandard2.0\HtmlParsing.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\bin\Debug\netstandard2.0\HtmlParsing.Models.pdb
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.dll
+C:\Users\Александр\source\repos\Html2Xlsx\HtmlParsing.Models\obj\Debug\netstandard2.0\HtmlParsing.Models.pdb
